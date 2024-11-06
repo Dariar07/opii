@@ -16,7 +16,7 @@ int main()
 	DA = A % 10;
 	PB = B / 10;
 	DB = B % 10;
-	cout << "\nСума кількості десятків чисел менша або дорівнює сумі кількості одиниці чисел? " << boolalpha << ( DA + DB <= PA + PB ) << endl;
+	cout << "\n( DA + DB <= PA + PB ) << endl;
 
 	return 0;
 }
