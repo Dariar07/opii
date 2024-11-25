@@ -21,6 +21,10 @@ int main()
 	{
 		y = pow(x, 5) * pow(x, 1/2) - 3;
 		cout << "y=" << y << endl;
+		cout << "y=" << y << endl;
+		cout << "y=" << y << endl;
+		cout << "y=" << y << endl;
+		cout << "y=" << y << endl;
 	}
 
 }
